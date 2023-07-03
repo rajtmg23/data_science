@@ -1,0 +1,25 @@
+# Remove previous ipynb_checkpoints
+git rm -r .ipynb_checkpoints/
+
+# Jupyter Notebook auto-save files
+.ipynb_checkpoints/
+
+# Jupyter Notebook kernel connection files
+.local/
+.metadata/
+
+# Jupyter Notebook output files
+*.html
+#*.ipynb
+
+# Python virtual environment
+.venv/
+
+# Data files (optional, if you have large or sensitive data files)
+#data/
+
+# Logs and temporary files (optional)
+logs/
+temp/
+
+.git
