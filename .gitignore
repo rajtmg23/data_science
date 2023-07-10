@@ -23,5 +23,6 @@
 logs/
 temp/
 env/
+bulldozer-price-prediction-project/data/*
 
 .git
